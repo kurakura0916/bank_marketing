@@ -2,7 +2,7 @@
 
 ## 概要
 UCIの[Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/bank+marketing#)を用いたロジスティック回帰分析を行う。
-また、以下のパターンからAICが最も低くなるようなモデルを見つける。
+また、以下のモデルパターンからAICが最も低くなるようなモデルを見つける。
 
 ## データセット説明
 ポルトガルの銀行で行なった定期預金（term deposit）に申し込んでもらうためのキャンペーン結果及びその顧客の情報を表したデータセット。
