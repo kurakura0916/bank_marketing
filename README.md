@@ -52,12 +52,12 @@ R言語（version.string R version 3.4.1 (2017-06-30)）
   3. 欠損値（unknown）を含む全ての行を削除する
 
 - パターン
-  1. 変数追加無し&欠損値（unknown）をそのまま使う
-  2. 変数追加有り&欠損値（unknown）をそのまま使う
-  3. 変数追加無し&論理埋め
-  4. 変数追加有り&論理埋め
-  5. 変数追加無し&欠損値（unknown）を含む全ての行を削除する
-  6. 変数追加有り&欠損値（unknown）を含む全ての行を削除する
+  1. 変数追加無し&欠損値（unknown）をそのまま使う（modeling_pattern_1.R）
+  2. 変数追加有り&欠損値（unknown）をそのまま使う（modeling_pattern_2.R）
+  3. 変数追加無し&論理埋め（modeling_pattern_3.R）
+  4. 変数追加有り&論理埋め（modeling_pattern_4.R）
+  5. 変数追加無し&欠損値（unknown）を含む全ての行を削除する（modeling_pattern_5.R）
+  6. 変数追加有り&欠損値（unknown）を含む全ての行を削除する（modeling_pattern_6.R）
 
 ## 作業手順
 1. データの取り込み
